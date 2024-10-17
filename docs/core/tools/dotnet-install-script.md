@@ -7,7 +7,7 @@ ms.date: 08/01/2023
 
 ## Name
 
-`dotnet-install.ps1` | `dotnet-install.sh` - Script used to install the .NET SDK and the shared runtime.
+`dotnet-install.ps1` | `dotnet-install.sh` - Script used to install the .NET SDK and the shared runtime.f
 
 ## Synopsis
 
